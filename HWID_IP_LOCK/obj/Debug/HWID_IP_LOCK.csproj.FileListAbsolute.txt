@@ -1,0 +1,9 @@
+C:\Users\김준성\source\repos\HWID_IP_LOCK\HWID_IP_LOCK\bin\Debug\HWID_IP_LOCK.exe.config
+C:\Users\김준성\source\repos\HWID_IP_LOCK\HWID_IP_LOCK\bin\Debug\HWID_IP_LOCK.exe
+C:\Users\김준성\source\repos\HWID_IP_LOCK\HWID_IP_LOCK\bin\Debug\HWID_IP_LOCK.pdb
+C:\Users\김준성\source\repos\HWID_IP_LOCK\HWID_IP_LOCK\obj\Debug\HWID_IP_LOCK.csproj.AssemblyReference.cache
+C:\Users\김준성\source\repos\HWID_IP_LOCK\HWID_IP_LOCK\obj\Debug\HWID_IP_LOCK.Properties.Resources.resources
+C:\Users\김준성\source\repos\HWID_IP_LOCK\HWID_IP_LOCK\obj\Debug\HWID_IP_LOCK.csproj.GenerateResource.cache
+C:\Users\김준성\source\repos\HWID_IP_LOCK\HWID_IP_LOCK\obj\Debug\HWID_IP_LOCK.csproj.CoreCompileInputs.cache
+C:\Users\김준성\source\repos\HWID_IP_LOCK\HWID_IP_LOCK\obj\Debug\HWID_IP_LOCK.exe
+C:\Users\김준성\source\repos\HWID_IP_LOCK\HWID_IP_LOCK\obj\Debug\HWID_IP_LOCK.pdb
